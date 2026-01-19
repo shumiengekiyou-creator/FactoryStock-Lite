@@ -1,0 +1,11 @@
+# Java build output
+bin/
+out/
+target/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
